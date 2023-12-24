@@ -75,9 +75,10 @@ public class ArithmeticException {
         System.out.println("HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH");
         System.out.println(" three hundred is working");
         System.out.println("IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII");
+        
+        System.out.println("local changes");
 
          System.out.println("Remote changes 1");
          System.out.println("Remote changes 2");
-
     }
 }
