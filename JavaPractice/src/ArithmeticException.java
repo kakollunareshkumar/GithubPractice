@@ -13,5 +13,11 @@ public class ArithmeticException {
         System.out.println("two hundred is working");
         System.out.println(" three hundred is working");
         System.out.println(" four hundred is working");
+
+        System.out.println("***************************************");
+        System.out.println("one hundred is working");
+        System.out.println("two hundred is working");
+        System.out.println(" three hundred is working");
+        System.out.println(" four hundred is working");
     }
 }
