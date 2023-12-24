@@ -67,6 +67,8 @@ public class ArithmeticException {
          System.out.println("Remote changes 2");
           System.out.println("Remote changes +++++++++++++++");
          System.out.println("Remote changes ----------------");
+        System.out.println("Remote changes 11111111111111111111111");
+         System.out.println("Remote changes 2222222222222222222222");
 
     }
 }
