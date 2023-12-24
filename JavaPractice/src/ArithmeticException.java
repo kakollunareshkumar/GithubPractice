@@ -8,5 +8,10 @@ public class ArithmeticException {
         System.out.println("This Twenty is working");
         System.out.println("Twenty one is working");
         System.out.println("Twenty four is working");
+        System.out.println("========================================");
+        System.out.println("one hundred is working");
+        System.out.println("two hundred is working");
+        System.out.println(" three hundred is working");
+        System.out.println(" four hundred is working");
     }
 }
