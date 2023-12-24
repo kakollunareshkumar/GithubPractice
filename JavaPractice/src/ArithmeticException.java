@@ -80,9 +80,16 @@ public class ArithmeticException {
 
          System.out.println("Remote changes 1");
          System.out.println("Remote changes 2");
+
          System.out.println("local changes +++++++++++++++++++++++++");
          System.out.println("local changes --------------------------");
          System.out.println("local changes 3333333333333333333333333");
          System.out.println("local changes 444444444444444444444444444");
+
+          System.out.println("Remote changes +++++++++++++++");
+         System.out.println("Remote changes ----------------");
+        System.out.println("Remote changes 11111111111111111111111");
+         System.out.println("Remote changes 2222222222222222222222");
+
     }
 }
