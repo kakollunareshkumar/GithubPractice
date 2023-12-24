@@ -7,5 +7,6 @@ public class ArithmeticException {
         System.out.println("This eighteen is working");
         System.out.println("This Twenty is working");
         System.out.println("Twenty one is working");
+        System.out.println("Twenty two is working");
     }
 }
