@@ -35,6 +35,12 @@ public class ArithmeticException {
         System.out.println("TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT");
         System.out.println(" four hundred is working");
         
+        
+        System.out.println("ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ");
+        System.out.println("one hundred is working");
+        System.out.println("two hundred is working");
+        System.out.println("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
+        System.out.println(" four hundred is working");
        
     }
 }
