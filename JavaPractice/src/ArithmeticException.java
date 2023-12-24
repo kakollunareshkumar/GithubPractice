@@ -4,5 +4,6 @@ public class ArithmeticException {
         System.out.println("This program is working");
         System.out.println("This sixteen is working");
         System.out.println("This seventeen is working");
+        System.out.println("This eighteen is working");
     }
 }
