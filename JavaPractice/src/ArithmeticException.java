@@ -32,5 +32,8 @@ public class ArithmeticException {
         System.out.println("CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC");
         System.out.println(" three hundred is working");
         System.out.println("BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB");
+
+        System.out.println("Hello World");
+
     }
 }
